@@ -9,7 +9,7 @@ let playing = false;
 
 
 
-
+recordPlayer.addEventListener('click',play)
 
 function play() {
     playing = !playing;

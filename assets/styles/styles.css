@@ -25,6 +25,11 @@
 
 #music{
     visibility: hidden;
+    width: 50%;
+    margin-right: 0px;
+    height: 50px;
+    margin-top: -8px;
+
 }
 
 .musicPlayer{

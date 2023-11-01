@@ -1,6 +1,14 @@
+
+
+
+
 const playGif = document.querySelector('#music')
 const recordPlayer = document.querySelector('#recordPlayer')
 let playing = false;
+
+
+
+
 
 
 function play() {

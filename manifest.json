@@ -1,0 +1,11 @@
+{
+    "name": "Ghibli Lofi",
+    "version": "1.0.0",
+    "description": "Ghibli themed lofi music player",
+    "manifest_version": 3,
+    "author": "Gabrielle Handy",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Ghibli Lofi Player"
+    }
+}

@@ -1,0 +1,23 @@
+#music{
+    float: inline-end;
+    margin-right: -110px; 
+    margin-top: -100px;
+
+  
+}
+.backgroundImg{
+    background-image: url("assets/frenchStudyPage.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:200px;
+
+}
+
+#controlBox{
+    height: 100px;
+}
+
+.musicPlayer{
+    width: 200px;
+}

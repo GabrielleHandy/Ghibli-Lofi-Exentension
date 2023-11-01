@@ -1,0 +1,32 @@
+#music{
+    width: 90%;
+    height: 100px;
+    margin-right: -50px;
+    margin-top: -20px;
+}
+
+#playBtn img{
+    height: 100%;
+    width: 100%;
+}
+
+.backgroundImg{
+    background-image: url("../frenchStudyPage.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:200px;
+
+}
+
+#controlBox{
+    height: 50px;
+}
+
+#music{
+    visibility: hidden;
+}
+
+.musicPlayer{
+    width: 200px;
+}

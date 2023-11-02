@@ -1,6 +1,11 @@
 # Ghibli Lofi Chrome Extension
+<p align=center>
+<img src="https://github.com/GabrielleHandy/Ghibli-Lofi-Exentension/assets/91081738/8bd69173-6b2c-4095-9772-bdf36a2e5ad2" width=300px height="200px">
+  
+</p>
 
-![Ghibli Lofi Chrome Extension Logo](https://your-extension-logo-url-here.png)
+
+
 
 ## Overview
 
